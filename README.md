@@ -1,4 +1,14 @@
-## Vibed Projects
+## Team
+- AB180 (2018 ~ 2021)
+- Terraform Labs (2022)
+- Manythings (2023 ~)
+
+## TF
+- Osmosis (Hackatom V)
+- Hyperlane (cw-hyperlane)
+- ...
+
+## Vibed
 
 ### [@byeongsu-hong/pranklin](https://github.com/byeongsu-hong/pranklin)
 
