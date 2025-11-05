@@ -10,6 +10,10 @@
 
 ## Vibed
 
+### [@byeongsu-hong/squad](https://github.com/byeongsu-hong/squad)
+
+> Squad interface for third party SVM chains
+
 ### [@byeongsu-hong/pranklin](https://github.com/byeongsu-hong/pranklin)
 
 > Layer-2 Perpetual DEX built with [Rollkit](https://github.com/evstack/ev-node)
