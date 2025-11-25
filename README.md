@@ -10,6 +10,10 @@
 
 ## Vibed
 
+### [@byeongsu-hong/vital](https://github.com/byeongsu-hong/vital)
+
+> Real-time cardiac visualization system that syncs music playback with your heart rate.
+
 ### [@byeongsu-hong/squad](https://github.com/byeongsu-hong/squad)
 
 > Squad interface for third party SVM chains
