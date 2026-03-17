@@ -1,7 +1,7 @@
 ## Team
 - AB180 (2018 ~ 2021)
 - Terraform Labs (2022)
-- Manythings (2023 ~)
+- Manythings (2023 ~ 2026)
 
 ## TF
 - Osmosis (Hackatom V)
