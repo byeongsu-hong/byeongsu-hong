@@ -12,4 +12,4 @@ Software engineer working on distributed systems in Rust and Go. [byeongsu.dev](
 - [hyperlane-xyz/hyperlane-monorepo#2865](https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/2865): Cosmos / CosmWasm agents
 
 ## Side projects
-- [squad](https://github.com/byeongsu-hong/squad) ([live](https://squad.byeongsu.dev)): Squads multisig interface for third-party SVM chains
+- [squad](https://github.com/byeongsu-hong/squad) ([live](https://squad.byeongsu.dev)): multisig operations workspace for Squads (SVM) and Safe (EVM)
